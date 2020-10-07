@@ -33,9 +33,10 @@
 			<div class="header-text">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1 class="white typed">Festival Hak Asasi Manusia 2020</h1>
+						<h1 class="white typed">Festival Hak Asasi Manusia 2020</h1><span class="typed-cursor">|</span>
 						<h3 class="light white">"Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya"</h3>
-						<span class="typed-cursor">|</span>
+						<h4 class="light white"> Festival HAM 2020 merupakan forum bersama untuk merayakan praktik-praktik baik dalam melaksanakan pembangunan yang berbasis HAM dengan memperhatikan kearifan lokal. Forum ini dapat menyediakan dan menularkan informasi dan inspirasi serta menjadi wadah pertukaran pengalaman dan pertukaran praktik-praktik inovatif lainnya di bidang HAM.</h4>
+
 					</div>
 				</div>
 			</div>
