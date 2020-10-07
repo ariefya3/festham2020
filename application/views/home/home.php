@@ -11,16 +11,16 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#"><img src="assets/img/logo.png" data-active-url="assets/img/logo-active.png" alt=""></a>
+				<a class="navbar-brand" href="#"><img src="assets/img/logo-fh.png" data-active-url="assets/img/logo-fh.png" alt=""></a>
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right main-nav">
-					<li><a href="#intro">Tentang Festival</a></li>
-					<li><a href="#services">Services</a></li>
-					<li><a href="#team">Team</a></li>
-					<li><a href="#pricing">Pricing</a></li>
-					<li><a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue">Sign Up</a></li>
+					<li><a href="#intro">Tentang HAM</a></li>
+					<li><a href="#services">Kegiatxan</a></li>
+					<li><a href="#team">Jadwal</a></li>
+					<li><a href="#pricing">Dokumen</a></li>
+					<!--<li><a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue">Sign Up</a></li>-->
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
@@ -33,8 +33,8 @@
 				<div class="header-text">
 					<div class="row">
 						<div class="col-md-12 text-center">
-							<h3 class="light white">Take care of your body.</h3>
-							<h1 class="white typed">It's the only place you have to live.</h1>
+                            <h1 class="white typed">Festival Hak Asasi Manusia 2020</h1>
+                            <h3 class="light white">"Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya"</h3>
 							<span class="typed-cursor">|</span>
 						</div>
 					</div>
