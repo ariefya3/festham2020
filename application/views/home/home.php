@@ -166,8 +166,35 @@
 <section id="services" class="section section-padded">
 	<div class="container">
 		<div class="row text-center title">
-			<h2>Services</h2>
-			<h4 class="light muted">Achieve the best results with our wide variety of training options!</h4>
+			<h2>Bentuk Kegiatan</h2>
+		</div>
+		<div class="row text-left title">
+			<ol type="A">
+				<li><b>Kegiatan Pra Festival</b> Penandatanganan MoU, Penandatanganan Perjanjian Kerja Sama (PKS), Konferensi Pers, Diskusi, Seminar, Talkshow, Media Gathering, Media Visit, Penyuluhan HAM, World Human Rights Cities Forum (WHRCF). </li>
+				<li><b>Kegiatan Saat Festival</b>
+					<ol type="1">
+						<li>Forum Konferensi (Diskusi dalam bentuk sesi diskusi pleno dan sesi diskusi paralel)</li>
+						<li>Pameran
+							<ol type="a">
+								<li>Tempat Wisata</li>
+								<li>Kuliner</li>
+								<li>Program Kota/Kabupaten HAM</li>
+								<li>Produk UKM</li>
+								<li>Pentas Seni dan Budaya Lokal</li>
+								<li>Deklarasi</li>
+							</ol>
+						</li>
+					</ol>
+				<li><b>Sesi Khusus</b>
+					<ol type="1">
+						<li>Panggung Budaya Seni dan Tari Rakyat (Pemerintah Kota Banjarmasin)</li>
+						<li>Diskusi atau Bedah RUU Penghapusan Kekerasan Seksual (PKS) (INFID)</li>
+					</ol>
+				</li>
+				<li><b>Kegiatan Pasca Festival</b> Evaluasi dan Pembuatan Laporan Festival</li>
+				</li>
+			</ol>
+
 		</div>
 		<div class="row services">
 			<div class="col-md-4">
