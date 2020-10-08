@@ -392,9 +392,10 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6 text-center-mobile">
-				<h3 class="white">Reserve a Free Trial Class!</h3>
-				<h5 class="light regular light-white">Shape your body and improve your health.</h5>
-				<a href="#" class="btn btn-blue ripple trial-button">Start Free Trial</a>
+				<img style="max-width:200px" src="assets/img/logo-fh1.png" data-active-url="assets/img/logo-fh1.png" alt="">
+				<h3 class="white">Festival HAM 2020</h3>
+				<h5 class="light regular light-white">“Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya”</h5>
+				<!--a href="#" class="btn btn-blue ripple trial-button">Start Free Trial</a>-->
 			</div>
 			<div class="col-sm-6 text-center-mobile">
 				<h3 class="white">Opening Hours <span class="open-blink"></span></h3>
@@ -412,13 +413,13 @@
 		</div>
 		<div class="row bottom-footer text-center-mobile">
 			<div class="col-sm-8">
-				<p>&copy; 2015 All Rights Reserved. Powered by <a href="http://www.phir.co/">PHIr</a> exclusively for <a href="http://tympanus.net/codrops/">Codrops</a></p>
+				<p>&copy; 2020 Festival HAM. Hak Cipta Dilindungi Oleh Undang-Indang</p>
 			</div>
 			<div class="col-sm-4 text-right text-center-mobile">
 				<ul class="social-footer">
-					<li><a href="http://www.facebook.com/pages/Codrops/159107397912"><i class="fa fa-facebook"></i></a></li>
-					<li><a href="http://www.twitter.com/codrops"><i class="fa fa-twitter"></i></a></li>
-					<li><a href="https://plus.google.com/101095823814290637419"><i class="fa fa-google-plus"></i></a></li>
+					<li><a href="https://www.facebook.com/Komnas-HAM-594229344376689/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="https://twitter.com/komnasham" target="_blank"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://www.instagram.com/komnas.ham/" ><i class="fa fa-instagram"></i></a></li>
 				</ul>
 			</div>
 		</div>
