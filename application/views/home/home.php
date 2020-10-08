@@ -232,54 +232,54 @@
 <section id="team" class="section gray-bg">
 	<div class="container">
 		<div class="row title text-center">
-			<h2 class="margin-top">Team</h2>
-			<h4 class="light muted">We're a dream team!</h4>
+			<h2 class="margin-top">Jadwal Festival HAM 2020</h2>
+			<h4 class="light muted">Kamis-Sabtu, 17-19 Desember 2020</h4>
 		</div>
 		<div class="row">
 			<div class="col-md-4">
 				<div class="team text-center">
-					<div class="cover" style="background:url('assets/img/team/team-cover1.jpg'); background-size:cover;">
+					<!--<div class="cover" style="background:url('assets/img/team/team-cover1.jpg'); background-size:cover;">
 						<div class="overlay text-center">
 							<h3 class="white">$69.00</h3>
 							<h5 class="light light-white">1 - 5 sessions / month</h5>
 						</div>
 					</div>
-					<img src="assets/img/team/team3.jpg" alt="Team Image" class="avatar">
+					<img src="assets/img/team/team3.jpg" alt="Team Image" class="avatar">-->
 					<div class="title">
-						<h4>Ben Adamson</h4>
-						<h5 class="muted regular">Fitness Instructor</h5>
+						<h4>HARI I</h4>
+						<h5 class="muted regular">Kamis, 17 Desember 2020</h5>
 					</div>
 					<button data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill">Sign Up Now</button>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="team text-center">
-					<div class="cover" style="background:url('assets/img/team/team-cover2.jpg'); background-size:cover;">
+					<!--<div class="cover" style="background:url('assets/img/team/team-cover2.jpg'); background-size:cover;">
 						<div class="overlay text-center">
 							<h3 class="white">$69.00</h3>
 							<h5 class="light light-white">1 - 5 sessions / month</h5>
 						</div>
 					</div>
-					<img src="assets/img/team/team1.jpg" alt="Team Image" class="avatar">
+					<img src="assets/img/team/team1.jpg" alt="Team Image" class="avatar">-->
 					<div class="title">
-						<h4>Eva Williams</h4>
-						<h5 class="muted regular">Personal Trainer</h5>
+						<h4>HARI II</h4>
+						<h5 class="muted regular">Jumat, 18 Desember 2020</h5>
 					</div>
 					<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill ripple">Sign Up Now</a>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="team text-center">
-					<div class="cover" style="background:url('assets/img/team/team-cover3.jpg'); background-size:cover;">
+					<!--<div class="cover" style="background:url('assets/img/team/team-cover3.jpg'); background-size:cover;">
 						<div class="overlay text-center">
 							<h3 class="white">$69.00</h3>
 							<h5 class="light light-white">1 - 5 sessions / month</h5>
 						</div>
 					</div>
-					<img src="assets/img/team/team2.jpg" alt="Team Image" class="avatar">
+					<img src="assets/img/team/team2.jpg" alt="Team Image" class="avatar">-->
 					<div class="title">
-						<h4>John Phillips</h4>
-						<h5 class="muted regular">Personal Trainer</h5>
+						<h4>HARI III</h4>
+						<h5 class="muted regular">Sabtu, 19 Desember 2020</h5>
 					</div>
 					<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill ripple">Sign Up Now</a>
 				</div>
