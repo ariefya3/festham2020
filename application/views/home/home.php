@@ -16,10 +16,11 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right main-nav">
-				<li><a href="#intro">Tentang HAM</a></li>
+				<li><a href="#intro">Home</a></li>
 				<li><a href="#services">Kegiatan</a></li>
 				<li><a href="#team">Jadwal</a></li>
 				<li><a href="#pricing">Dokumen</a></li>
+				<li><a href="#about">Tentang HAM</a></li>
 				<!--<li><a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue">Sign Up</a></li>-->
 			</ul>
 		</div>
@@ -35,15 +36,13 @@
 					<div class="col-md-12 text-center">
 						<h1 class="white typed">Festival Hak Asasi Manusia 2020</h1><span class="typed-cursor">|</span>
 						<h3 class="light white">"Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya"</h3>
-						<h4 class="light white"> Festival HAM 2020 merupakan forum bersama untuk merayakan praktik-praktik baik dalam melaksanakan pembangunan yang berbasis HAM dengan memperhatikan kearifan lokal. Forum ini dapat menyediakan dan menularkan informasi dan inspirasi serta menjadi wadah pertukaran pengalaman dan pertukaran praktik-praktik inovatif lainnya di bidang HAM.</h4>
-
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </header>
-<section>
+<!--<section>
 	<div class="cut cut-top"></div>
 	<div class="container">
 		<div class="row intro-tables">
@@ -163,71 +162,53 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section>-->
+
 <section id="services" class="section section-padded">
 	<div class="container">
 		<div class="row text-center title">
 			<h2>Bentuk Kegiatan</h2>
-		</div>
-		<div class="row text-left title">
-			<ol type="A">
-				<li><b>Kegiatan Pra Festival</b> Penandatanganan MoU, Penandatanganan Perjanjian Kerja Sama (PKS), Konferensi Pers, Diskusi, Seminar, Talkshow, Media Gathering, Media Visit, Penyuluhan HAM, World Human Rights Cities Forum (WHRCF). </li>
-				<li><b>Kegiatan Saat Festival</b>
-					<ol type="1">
-						<li>Forum Konferensi (Diskusi dalam bentuk sesi diskusi pleno dan sesi diskusi paralel)</li>
-						<li>Pameran
-							<ol type="a">
-								<li>Tempat Wisata</li>
-								<li>Kuliner</li>
-								<li>Program Kota/Kabupaten HAM</li>
-								<li>Produk UKM</li>
-								<li>Pentas Seni dan Budaya Lokal</li>
-								<li>Deklarasi</li>
-							</ol>
-						</li>
-					</ol>
-				<li><b>Sesi Khusus</b>
-					<ol type="1">
-						<li>Panggung Budaya Seni dan Tari Rakyat (Pemerintah Kota Banjarmasin)</li>
-						<li>Diskusi atau Bedah RUU Penghapusan Kekerasan Seksual (PKS) (INFID)</li>
-					</ol>
-				</li>
-				<li><b>Kegiatan Pasca Festival</b> Evaluasi dan Pembuatan Laporan Festival</li>
-				</li>
-			</ol>
-
-		</div>
-		<div class="row services">
-			<div class="col-md-4">
-				<div class="service">
-					<div class="icon-holder">
-						<img src="assets/img/icons/heart-blue.png" alt="" class="icon">
+			<div class="row services">
+				<div class="col-md-3">
+					<div class="service">
+						<div class="icon-holder">
+							<img src="assets/img/icons/prafest.png" alt="" class="icon">
+						</div>
+						<h4 class="heading">Kegiatan Pra Festival</h4>
+						<button data-toggle="modal" data-target="#modal-fh-prafest" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
-					<h4 class="heading">Cardio Training</h4>
-					<p class="description">A elementum ligula lacus ac quam ultrices a scelerisque praesent vel suspendisse scelerisque a aenean hac montes.</p>
+				</div>
+				<div class="col-md-3">
+					<div class="service">
+						<div class="icon-holder">
+							<img src="assets/img/icons/saat-fest.png" alt="" class="icon">
+						</div>
+						<h4 class="heading">Kegiatan Saat Festival</h4>
+						<button data-toggle="modal" data-target="#modal-fh-saatfest" class="btn btn-blue-fill description">LIHAT</button>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="service">
+						<div class="icon-holder">
+							<img src="assets/img/icons/sesi-khusus.png" alt="" class="icon">
+						</div>
+						<h4 class="heading">Sesi Khusus</h4>
+						<button data-toggle="modal" data-target="#modal-fh-sesus" class="btn btn-blue-fill description">LIHAT</button>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="service">
+						<div class="icon-holder">
+							<img src="assets/img/icons/evaluation.png" alt="" class="icon">
+						</div>
+						<h4 class="heading">Kegiatan Pasca Festival</h4>
+						<button data-toggle="modal" data-target="#modal-fh-pasca" class="btn btn-blue-fill description">LIHAT</button>
+					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
-				<div class="service">
-					<div class="icon-holder">
-						<img src="assets/img/icons/guru-blue.png" alt="" class="icon">
-					</div>
-					<h4 class="heading">Yoga Pilates</h4>
-					<p class="description">A elementum ligula lacus ac quam ultrices a scelerisque praesent vel suspendisse scelerisque a aenean hac montes.</p>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="service">
-					<div class="icon-holder">
-						<img src="assets/img/icons/weight-blue.png" alt="" class="icon">
-					</div>
-					<h4 class="heading">Power Training</h4>
-					<p class="description">A elementum ligula lacus ac quam ultrices a scelerisque praesent vel suspendisse scelerisque a aenean hac montes.</p>
-				</div>
-			</div>
+			<!--<h4 class="light white">Choose your favorite pricing plan and sign up today!</h4>-->
 		</div>
 	</div>
-	<div class="cut cut-bottom"></div>
 </section>
 <section id="team" class="section gray-bg">
 	<div class="container">
@@ -293,33 +274,34 @@
 		<div class="row title text-center">
 			<h2 class="margin-top white">Dokumen</h2>
 			<div class="row services">
-			<div class="col-md-4">
-				<div class="service">
-					<div class="icon-holder">
-						<img src="assets/img/icons/documents.png" alt="" class="icon">
+				<div class="col-md-4">
+					<div class="service">
+						<div class="icon-holder">
+							<img src="assets/img/icons/documents.png" alt="" class="icon">
+						</div>
+						<h4 class="heading">TOR</h4>
+						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
 					</div>
-					<h4 class="heading">TOR</h4>
-					<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
+				</div>
+				<div class="col-md-4">
+					<div class="service">
+						<div class="icon-holder">
+							<img src="assets/img/icons/documents.png" alt="" class="icon">
+						</div>
+						<h4 class="heading">Kertas Posisi Komnas HAM untuk Kabupaten/Kota HAM</h4>
+						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="service">
+						<div class="icon-holder">
+							<img src="assets/img/icons/documents.png" alt="" class="icon">
+						</div>
+						<h4 class="heading">Panduan Kabupaten/Kota HAM INFID</h4>
+						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
+					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
-				<div class="service">
-					<div class="icon-holder">
-						<img src="assets/img/icons/documents.png" alt="" class="icon">
-					</div>
-					<h4 class="heading">Kertas Posisi Komnas HAM untuk Kabupaten/Kota HAM</h4>
-					<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="service">
-					<div class="icon-holder">
-						<img src="assets/img/icons/documents.png" alt="" class="icon">
-					</div>
-					<h4 class="heading">Panduan Kabupaten/Kota HAM INFID</h4>
-					<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>				</div>
-			</div>
-		</div>
 			<!--<h4 class="light white">Choose your favorite pricing plan and sign up today!</h4>-->
 		</div>
 		<!--<div class="row no-margin">
@@ -363,12 +345,18 @@
 		</div>-->
 	</div>
 </section>
-<section class="section section-padded blue-bg">
+<section id="about" class="section section-padded blue-bg">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<div class="owl-twitter owl-carousel">
 					<div class="item text-center">
+						<!--i class="icon fa fa-twitter"-->
+						<h3 class="white light"><b>TENTANG FESTIVAL HAM</b></h3>
+						<h4 class="white light">Festival HAM 2020 merupakan forum bersama untuk merayakan praktik-praktik baik dalam melaksanakan pembangunan yang berbasis HAM dengan memperhatikan kearifan lokal. Forum ini dapat menyediakan dan menularkan informasi dan inspirasi serta menjadi wadah pertukaran pengalaman dan pertukaran praktik-praktik inovatif lainnya di bidang HAM.</h4>
+						<!--h4 class="light-white light">#Komnas HAM #FestivalHAM2020</h4-->
+					</div>
+					<!--div class="item text-center">
 						<i class="icon fa fa-twitter"></i>
 						<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
 						<h4 class="light-white light">#health #training #exercise</h4>
@@ -377,12 +365,7 @@
 						<i class="icon fa fa-twitter"></i>
 						<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
 						<h4 class="light-white light">#health #training #exercise</h4>
-					</div>
-					<div class="item text-center">
-						<i class="icon fa fa-twitter"></i>
-						<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
-						<h4 class="light-white light">#health #training #exercise</h4>
-					</div>
+					</div-->
 				</div>
 			</div>
 		</div>
@@ -446,70 +429,70 @@
 				</div>
 				<button type="submit" class="btn btn-submit">Submit</button>-->
 				<div class="owl-carousel owl-schedule bottom">
-						<div class="item">
-							<div class="schedule-row row text-left">
-								<div class="col-xs-6">
-									<h5 class="regular-fh white p-thin-fh">Pendaftaran</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">7:30 - 8:00</h5>
-								</div>
+					<div class="item">
+						<div class="schedule-row row text-left">
+							<div class="col-xs-6">
+								<h5 class="regular-fh white p-thin-fh">Pendaftaran</h5>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh">Seremoni Pembukaan</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">8:30 - 10:00</h5>
-								</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">7:30 - 8:00</h5>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh">Keynote Speech <br>
-								<b>Prof. Dr. Pratikno, M.Soc.Sc. Menteri Sekretaris Negara Republik Indonesia</b></h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">8:31 - 9:00</h5>
-								</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh">Seremoni Pembukaan</h5>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh">Rehat Kopi</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">9:01 - 9:15</h5>
-								</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">8:30 - 10:00</h5>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh">Sesi Pleno I<br>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh">Keynote Speech <br>
+									<b>Prof. Dr. Pratikno, M.Soc.Sc. Menteri Sekretaris Negara Republik Indonesia</b></h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">8:31 - 9:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh">Rehat Kopi</h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">9:01 - 9:15</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh">Sesi Pleno I<br>
 									<b>Tema: Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya (Penanggungjawab: Komnas HAM)</b></h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">9:16 - 12:00</h5>
-								</div>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh">Lunch Break (Makan Siang, Solat, Rehat)<br>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">12:01 - 13:00</h5>
-								</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">9:16 - 12:00</h5>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh">Sesi Pleno II<br>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh">Lunch Break (Makan Siang, Solat, Rehat)<br>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">12:01 - 13:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh">Sesi Pleno II<br>
 									<b>Tema: Pembangunan Daerah yang Berbasis HAM Melalui Perwujudan Kota/Kabupaten Inklusi (Penanggungjawab: Pemkot Banjarmasin)</b></h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">13:01 - 15:00</h5>
-								</div>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh"><b>Paralel Events<br>
-									Paralel 1</b><br>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">13:01 - 15:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh"><b>Paralel Events<br>
+										Paralel 1</b><br>
 									Tema: Pelayanan Publik Berbasis HAM (Ombudsman RI)<br>
 									Narasumber:<br>
 									Moderator: Komisioner Komnas HAM<br><br>
@@ -528,43 +511,43 @@
 									<b>Sesi Khusus</b><br>
 									Bedah Buku RUU PKS (INFID)<br>
 									Narasumber:<br>
-									Moderator: 				
+									Moderator:
 								</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">15:01 - 17:00</h5>
-								</div>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh"><b>Jamuan Makan Malam dan Pawai Perahu Perwakilan dari Seluruh Provinsi di Indonesia</b><br>
-									Pelaksana: Pemkot Banjarmasin<br>
-								</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">19:00 - 21:00</h5>
-								</div>
-							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh"><b>Pameran</b>
-								</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">08:00 - 17:00</h5>
-								</div>
-							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh"><b>Pentas Seni Budaya</b>
-								</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">19:00 - 21:00</h5>
-								</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">15:01 - 17:00</h5>
 							</div>
 						</div>
-						<!--<div class="item">
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh"><b>Jamuan Makan Malam dan Pawai Perahu Perwakilan dari Seluruh Provinsi di Indonesia</b><br>
+									Pelaksana: Pemkot Banjarmasin<br>
+								</h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">19:00 - 21:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh"><b>Pameran</b>
+								</h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">08:00 - 17:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh"><b>Pentas Seni Budaya</b>
+								</h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">19:00 - 21:00</h5>
+							</div>
+						</div>
+					</div>
+					<!--<div class="item">
 							<div class="schedule-row row">
 								<div class="col-xs-6">
 									<h5 class="regular white">Early Exercise</h5>
@@ -616,7 +599,7 @@
 								</div>
 							</div>
 						</div>-->
-					</div>
+				</div>
 			</form>
 		</div>
 	</div>
@@ -650,33 +633,33 @@
 				</div>
 				<button type="submit" class="btn btn-submit">Submit</button>-->
 				<div class="owl-carousel owl-schedule bottom">
-						<div class="item">
-							<div class="schedule-row row text-left">
-								<div class="col-xs-6">
-									<h5 class="regular-fh white p-thin-fh">Pendaftaran</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">7:30 - 8:00</h5>
-								</div>
+					<div class="item">
+						<div class="schedule-row row text-left">
+							<div class="col-xs-6">
+								<h5 class="regular-fh white p-thin-fh">Pendaftaran</h5>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh">Sesi Pleno III<br>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">7:30 - 8:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh">Sesi Pleno III<br>
 									<b>Tema: Pekerja Migran Indonesia (Penanggungjawab: KSP)</b></h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">8:01 - 10:00</h5>
-								</div>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh"><b>Diskusi Paralel<br>
-									Paralel 5</b><br>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">8:01 - 10:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh"><b>Diskusi Paralel<br>
+										Paralel 5</b><br>
 									Tema: HAM Masyarakat Adat (AMAN)<br>
 									Narasumber:<br>
-									1.	Sandrayati Moniaga Komisioner Komnas HAM <br>
-									2.	AMAN<br>
-									3.	Narasumber Lain<br>
+									1. Sandrayati Moniaga Komisioner Komnas HAM <br>
+									2. AMAN<br>
+									3. Narasumber Lain<br>
 									Moderator: <br><br>
 									<b>Paralel 6</b><br>
 									Tema: Peran Kabupaten/Kota dalam Pemenuhan Korban Pelanggaan Hak Asasi Manusia Masa Lalu (KSP)<br>
@@ -689,75 +672,75 @@
 									<b>Paralel 8</b><br>
 									Tema: Standar Norma dan Pengaturan (SNP) Hak Atas Kesehatan (Komnas HAM Bagian Pengkajian dan Penelitian)<br>
 									Narasumber:<br>
-									1.	Mimin Dwi Hartono, M.A. Koordinator Bagian Pengkajian dan Penelitian Komnas HAM<br>
-									2.	Kepala Dinas Kesehatan Kota Banjarmasin<br>
-									3.	Dr. Ir. Subandi, M.Sc. Deputi Bidang Pembangunan Manusia, Masyarakat, dan Kebudayaan Bappenas<br> 
-									4.	Dr. dr. Sally Aman Nasution, Sp.PD-KKV Anggota Dewan Pakar Ikatan Dokter Indonesia<br>
-									5.	Tulus Abadi Ketua Pengurus Harian Yayasan Lembaga Konsumen Indonesia<br>
+									1. Mimin Dwi Hartono, M.A. Koordinator Bagian Pengkajian dan Penelitian Komnas HAM<br>
+									2. Kepala Dinas Kesehatan Kota Banjarmasin<br>
+									3. Dr. Ir. Subandi, M.Sc. Deputi Bidang Pembangunan Manusia, Masyarakat, dan Kebudayaan Bappenas<br>
+									4. Dr. dr. Sally Aman Nasution, Sp.PD-KKV Anggota Dewan Pakar Ikatan Dokter Indonesia<br>
+									5. Tulus Abadi Ketua Pengurus Harian Yayasan Lembaga Konsumen Indonesia<br>
 									Moderator: Yeni Rosdianti, Ph.D Peneliti Komnas HAM <br><br>
 									<b>Paralel 9</b><br>
 									Tema: Keragaman, Toleransi dan Ke-Indonesia-an (KSP dan Badan Pembinaan Ideologi Pancasila/BPIP)<br>
 									Narasumber:<br>
-									Moderator: <br><br>				
+									Moderator: <br><br>
 								</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">10:01 - 12:00</h5>
-								</div>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh">Lunch Break (Makan siang, solat, rehat)</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">12:01 - 13:00</h5>
-								</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">10:01 - 12:00</h5>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh">Sesi Pleno IV<br>
-									<b>Tema: Praktik Terbaik Penerapan Kota/Kabupaten HAM di Masa Pandemi Covid-19: Belajar dari Negara lain (INFID)<b></h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">13:01 - 15:30</h5>
-								</div>
-							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh"><b>1. Presentasi Tim Perumusan Hasil Konferensi<b><br>
-									<b>2. Pembacaan Deklarasi</b><br>
-									<b>3. Seremoni Penutupan Konferensi (Penyerahan Simbolik dari Pemkot Banjarmasin kepada Tuan Rumah Festival HAM 2021)<b><br>
-									Pembaca Deklarasi: Komnas HAM, KSP, INFID, Pemkot Banjarmasin, Kementerian/Lembaga, Perwakilan Masyarakat Sipil.
-								</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">15:31 - 17:00</h5>
-								</div>
-							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh"><b>Pameran<b><br>
-										1. Tempat Wisata<br>
-										2. Kuliner<br>
-										3. Produk UKM<br>
-										4. Program Kota/Kab HAM<br>
-									</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">08:00 - 17:00</h5>
-								</div>
-							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh"><b>Pentas Seni Budaya<b><br>
-									</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">13:01 - 15:00</h5>
-								</div>
-							</div>						
 						</div>
-						<!--<div class="item">
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh">Lunch Break (Makan siang, solat, rehat)</h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">12:01 - 13:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh">Sesi Pleno IV<br>
+									<b>Tema: Praktik Terbaik Penerapan Kota/Kabupaten HAM di Masa Pandemi Covid-19: Belajar dari Negara lain (INFID)<b></h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">13:01 - 15:30</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh"><b>1. Presentasi Tim Perumusan Hasil Konferensi<b><br>
+											<b>2. Pembacaan Deklarasi</b><br>
+											<b>3. Seremoni Penutupan Konferensi (Penyerahan Simbolik dari Pemkot Banjarmasin kepada Tuan Rumah Festival HAM 2021)<b><br>
+													Pembaca Deklarasi: Komnas HAM, KSP, INFID, Pemkot Banjarmasin, Kementerian/Lembaga, Perwakilan Masyarakat Sipil.
+								</h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">15:31 - 17:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh"><b>Pameran<b><br>
+											1. Tempat Wisata<br>
+											2. Kuliner<br>
+											3. Produk UKM<br>
+											4. Program Kota/Kab HAM<br>
+								</h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">08:00 - 17:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh"><b>Pentas Seni Budaya<b><br>
+								</h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">13:01 - 15:00</h5>
+							</div>
+						</div>
+					</div>
+					<!--<div class="item">
 							<div class="schedule-row row">
 								<div class="col-xs-6">
 									<h5 class="regular white">Early Exercise</h5>
@@ -809,7 +792,7 @@
 								</div>
 							</div>
 						</div>-->
-					</div>
+				</div>
 			</form>
 		</div>
 	</div>
@@ -843,44 +826,44 @@
 				</div>
 				<button type="submit" class="btn btn-submit">Submit</button>-->
 				<div class="owl-carousel owl-schedule bottom">
-						<div class="item">
-							<div class="schedule-row row text-left">
-								<div class="col-xs-6">
-									<h5 class="regular-fh white p-thin-fh"><b>Pameran</b><br>
-										a. Tempat Wisata<br>
-										b. Kuliner<br>
-										c. Produk UKM<br>
-										d. Program Kota/Kab HAM
-									</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">8:00 - 17:00</h5>
-								</div>
+					<div class="item">
+						<div class="schedule-row row text-left">
+							<div class="col-xs-6">
+								<h5 class="regular-fh white p-thin-fh"><b>Pameran</b><br>
+									a. Tempat Wisata<br>
+									b. Kuliner<br>
+									c. Produk UKM<br>
+									d. Program Kota/Kab HAM
+								</h5>
 							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh"><b>Kunjungan Lapangan (Pelaksana Pemkot Banjarmasin)</b><br>
-										1. Susur Sungai (Sungai Martapura)<br>
-										2. Inklusi Center (Kelurahan Telawang)<br>
-										3. Kota Rukun (Kelurahan Gedang)
-									</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">8:00- 12:00</h5>
-								</div>
-							</div>
-							<div class="schedule-row row">
-								<div class="col-xs-6 text-left">
-									<h5 class="regular-fh white p-thin-fh"><b>Pentas Seni dan Budaya (Penanggungjawab: Pemkot Banjarmasin)</b><br>
-									ditampilkan secara virtual (online)
-									</h5>
-								</div>
-								<div class="col-xs-6 text-right">
-									<h5 class="regular-fh white p-thin-fh">19:00 - 21:00</h5>
-								</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">8:00 - 17:00</h5>
 							</div>
 						</div>
-						<!--<div class="item">
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh"><b>Kunjungan Lapangan (Pelaksana Pemkot Banjarmasin)</b><br>
+									1. Susur Sungai (Sungai Martapura)<br>
+									2. Inklusi Center (Kelurahan Telawang)<br>
+									3. Kota Rukun (Kelurahan Gedang)
+								</h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">8:00- 12:00</h5>
+							</div>
+						</div>
+						<div class="schedule-row row">
+							<div class="col-xs-6 text-left">
+								<h5 class="regular-fh white p-thin-fh"><b>Pentas Seni dan Budaya (Penanggungjawab: Pemkot Banjarmasin)</b><br>
+									ditampilkan secara virtual (online)
+								</h5>
+							</div>
+							<div class="col-xs-6 text-right">
+								<h5 class="regular-fh white p-thin-fh">19:00 - 21:00</h5>
+							</div>
+						</div>
+					</div>
+					<!--<div class="item">
 							<div class="schedule-row row">
 								<div class="col-xs-6">
 									<h5 class="regular white">Early Exercise</h5>
@@ -932,12 +915,115 @@
 								</div>
 							</div>
 						</div>-->
-					</div>
+				</div>
 			</form>
 		</div>
 	</div>
 </div>
-
+<!-- Menampilkan form saat festival-->
+<div class="modal fade" id="modal-fh-saatfest" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog-fh">
+		<div class="modal-content modal-popup">
+			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
+			<h3 class="white">Kegiatan Saat Festival HAM 2020</h3>
+			<form action="" class="popup-form-fh">
+				<div class="owl-carousel owl-schedule bottom">
+					<div class="item">
+						<div class="schedule-row row text-left">
+						</div>
+					</div>
+					<div class="schedule-row row">
+						<div class="col-xs-12 text-left">
+							<h5 class="regular-fh white p-thin-fh"><b>1. Forum Konferensi (Diskusi dalam bentuk sesi diskusi pleno dan sesi diskusi paralel).</b><br>
+							</h5>
+							<h5 class="regular-fh white p-thin-fh"><b>2. Pameran.</b><br>
+								a. Tempat Wisata<br>
+								b. Kuliner<br>
+								c. Program Kota/Kabupaten HAM<br>
+								d. Produk UKM
+							</h5>
+							<h5 class="regular-fh white p-thin-fh"><b>3. Pentas Seni.</b><br>
+							</h5>
+							<h5 class="regular-fh white p-thin-fh"><b>4. Deklarasi.</b><br>
+							</h5>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<!-- Menampilkan form Saat festival-->
+<div class="modal fade" id="modal-fh-prafest" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog-fh">
+		<div class="modal-content modal-popup">
+			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
+			<h3 class="white">Kegiatan Pra Festival HAM 2020</h3>
+			<form action="" class="popup-form-fh">
+				<div class="owl-carousel owl-schedule bottom">
+					<div class="item">
+						<div class="schedule-row row text-left">
+						</div>
+					</div>
+					<div class="schedule-row row">
+						<div class="col-xs-12 text-left">
+							<h5 class="regular-fh white p-thin-fh"><b>Penandatanganan MoU, Penandatanganan Perjanjian Kerja Sama (PKS), Konferensi Pers, Diskusi, Seminar, Talkshow, Media Gathering, Media Visit, Penyuluhan HAM, World Human Rights Cities Forum (WHRCF).</b><br>
+							</h5>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<!-- Menampilkan form Sesi Khusus-->
+<div class="modal fade" id="modal-fh-sesus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog-fh">
+		<div class="modal-content modal-popup">
+			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
+			<h3 class="white">Sesi Khusus Festival HAM 2020</h3>
+			<form action="" class="popup-form-fh">
+				<div class="owl-carousel owl-schedule bottom">
+					<div class="item">
+						<div class="schedule-row row text-left">
+						</div>
+					</div>
+					<div class="schedule-row row">
+						<div class="col-xs-12 text-left">
+							<h5 class="regular-fh white p-thin-fh"><b>1. Panggung Budaya Seni dan Tari Rakyat (Pemerintah Kota Banjarmasin).</b><br>
+							</h5>
+							<h5 class="regular-fh white p-thin-fh"><b>2. Diskusi atau Bedah RUU Penghapusan Kekerasan Seksual (PKS) (INFID).</b><br>
+							</h5>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<!-- Menampilkan form Sesi Khusus-->
+<div class="modal fade" id="modal-fh-pasca" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog-fh">
+		<div class="modal-content modal-popup">
+			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
+			<h3 class="white">Pasca Festival HAM 2020</h3>
+			<form action="" class="popup-form-fh">
+				<div class="owl-carousel owl-schedule bottom">
+					<div class="item">
+						<div class="schedule-row row text-left">
+						</div>
+					</div>
+					<div class="schedule-row row">
+						<div class="col-xs-12 text-left">
+							<h5 class="regular-fh white p-thin-fh"><b>Evaluasi dan Pembuatan Laporan Festival HAM 2020.</b><br>
+							</h5>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
 <footer>
 	<div class="container">
 		<div class="row">
@@ -947,16 +1033,23 @@
 				<h5 class="light regular light-white">“Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya”</h5>
 				<!--<a href="#" class="btn btn-blue ripple trial-button">Start Free Trial</a>-->
 			</div>
-			<div class="col-sm-6 text-center-mobile">
-				<h3 class="white">Opening Hours <span class="open-blink"></span></h3>
+			<div class="col-sm-4 text-center-mobile">
+				<h3 class="white">Panitia Acara <span class="open-blink"></span></h3>
 				<div class="row opening-hours">
-					<div class="col-sm-6 text-center-mobile">
-						<h5 class="light-white light">Mon - Fri</h5>
-						<h3 class="regular white">9:00 - 22:00</h3>
+					<img style="float: left; margin: 8px; " width="60" height="50" src="assets/img/media.png" data-active-url="assets/img/media.png" alt="">
+					<div class="col-sm-8 text-center-mobile">
+						<h3 class="light-white light">Relasi Media</h3>
+						<h5 class="regular white">blablablablablablabla@gmail.com</h5>
 					</div>
-					<div class="col-sm-6 text-center-mobile">
-						<h5 class="light-white light">Sat - Sun</h5>
-						<h3 class="regular white">10:00 - 18:00</h3>
+					<img style="float: left; margin: 8px; " width="60" height="50" src="assets/img/info.png" data-active-url="assets/img/info.png" alt="">
+					<div class="col-sm-8 text-center-mobile">
+						<h3 class="light-white light">Informasi Acara</h3>
+						<h5 class="regular white">blablablablablablabla@gmail.com</h5>
+					</div>
+					<img style="float: left; margin: 8px; " width="60" height="50" src="assets/img/people1.png" data-active-url="assets/img/people1.png" alt="">
+					<div class="col-sm-8 text-center-mobile">
+						<h3 class="light-white light">Panitia</h3>
+						<h5 class="regular white">blablablablablablablabl@gmail.com</h5>
 					</div>
 				</div>
 			</div>
@@ -970,6 +1063,7 @@
 					<li><a href="https://www.facebook.com/Komnas-HAM-594229344376689/"><i class="fa fa-facebook"></i></a></li>
 					<li><a href="https://twitter.com/komnasham"><i class="fa fa-twitter"></i></a></li>
 					<li><a href="https://www.instagram.com/komnas.ham/"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="https://www.youtube.com/komnasham/"><i class="fa fa-youtube"></i></a></li>
 				</ul>
 			</div>
 		</div>
