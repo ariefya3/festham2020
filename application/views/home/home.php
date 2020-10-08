@@ -291,10 +291,38 @@
 <section id="pricing" class="section">
 	<div class="container">
 		<div class="row title text-center">
-			<h2 class="margin-top white">Pricing</h2>
-			<h4 class="light white">Choose your favorite pricing plan and sign up today!</h4>
+			<h2 class="margin-top white">Dokumen</h2>
+			<div class="row services">
+			<div class="col-md-4">
+				<div class="service">
+					<div class="icon-holder">
+						<img src="assets/img/icons/documents.png" alt="" class="icon">
+					</div>
+					<h4 class="heading">TOR</h4>
+					<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service">
+					<div class="icon-holder">
+						<img src="assets/img/icons/documents.png" alt="" class="icon">
+					</div>
+					<h4 class="heading">Kertas Posisi Komnas HAM untuk Kabupaten/Kota HAM</h4>
+					<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service">
+					<div class="icon-holder">
+						<img src="assets/img/icons/documents.png" alt="" class="icon">
+					</div>
+					<h4 class="heading">Panduan Kabupaten/Kota HAM INFID</h4>
+					<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>				</div>
+			</div>
 		</div>
-		<div class="row no-margin">
+			<!--<h4 class="light white">Choose your favorite pricing plan and sign up today!</h4>-->
+		</div>
+		<!--<div class="row no-margin">
 			<div class="col-md-7 no-padding col-md-offset-5 pricings text-center">
 				<div class="pricing">
 					<div class="box-main active" data-img="assets/img/pricing1.jpg">
@@ -304,6 +332,7 @@
 						<i class="info-icon icon_question"></i>
 					</div>
 					<div class="box-second active">
+					<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-white-fill">Sign Up Now</a>
 						<ul class="white-list text-left">
 							<li>One Personal Trainer</li>
 							<li>Big gym space for training</li>
@@ -331,7 +360,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 	</div>
 </section>
 <section class="section section-padded blue-bg">
