@@ -1033,16 +1033,23 @@
 				<h5 class="light regular light-white">“Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya”</h5>
 				<!--<a href="#" class="btn btn-blue ripple trial-button">Start Free Trial</a>-->
 			</div>
-			<div class="col-sm-6 text-center-mobile">
+			<div class="col-sm-4 text-center-mobile">
 				<h3 class="white">Panitia Acara <span class="open-blink"></span></h3>
 				<div class="row opening-hours">
-					<div class="col-sm-6 text-center-mobile">
-						<h5 class="light-white light">Mon - Fri</h5>
-						<h3 class="regular white">9:00 - 22:00</h3>
+					<img style="float: left; margin: 8px; " width="60" height="50" src="assets/img/media.png" data-active-url="assets/img/media.png" alt="">
+					<div class="col-sm-8 text-center-mobile">
+						<h3 class="light-white light">Relasi Media</h3>
+						<h5 class="regular white">blablablablablablabla@gmail.com</h5>
 					</div>
-					<div class="col-sm-6 text-center-mobile">
-						<h5 class="light-white light">Sat - Sun</h5>
-						<h3 class="regular white">10:00 - 18:00</h3>
+					<img style="float: left; margin: 8px; " width="60" height="50" src="assets/img/info.png" data-active-url="assets/img/info.png" alt="">
+					<div class="col-sm-8 text-center-mobile">
+						<h3 class="light-white light">Informasi Acara</h3>
+						<h5 class="regular white">blablablablablablabla@gmail.com</h5>
+					</div>
+					<img style="float: left; margin: 8px; " width="60" height="50" src="assets/img/people1.png" data-active-url="assets/img/people1.png" alt="">
+					<div class="col-sm-8 text-center-mobile">
+						<h3 class="light-white light">Panitia</h3>
+						<h5 class="regular white">blablablablablablablabl@gmail.com</h5>
 					</div>
 				</div>
 			</div>
