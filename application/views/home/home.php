@@ -174,7 +174,7 @@
 						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/prafest.png" alt="" class="icon">
 						</div>
-						<h4 class="heading fnt-color-white">Kegiatan Pra Festival</h4>
+						<h5 class="heading fnt-color-white">Kegiatan Pra Festival</h5>
 						<button data-toggle="modal" data-target="#modal-fh-prafest" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
 				</div>
@@ -183,7 +183,7 @@
 						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/saat-fest.png" alt="" class="icon">
 						</div>
-						<h4 class="heading fnt-color-white">Kegiatan Saat Festival</h4>
+						<h5 class="heading fnt-color-white">Kegiatan Saat Festival</h5>
 						<button data-toggle="modal" data-target="#modal-fh-saatfest" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
 				</div>
@@ -192,7 +192,7 @@
 						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/sesi-khusus.png" alt="" class="icon">
 						</div>
-						<h4 class="heading fnt-color-white">Sesi Khusus</h4>
+						<h5 class="heading fnt-color-white">Sesi Khusus</h5>
 						<button data-toggle="modal" data-target="#modal-fh-sesus" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
 				</div>
@@ -201,7 +201,7 @@
 						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/evaluation.png" alt="" class="icon">
 						</div>
-						<h4 class="heading fnt-color-white">Kegiatan Pasca Festival</h4>
+						<h5 class="heading fnt-color-white">Kegiatan Pasca Festival</h5>
 						<button data-toggle="modal" data-target="#modal-fh-pasca" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
 				</div>
@@ -279,7 +279,7 @@
 						<div class="icon-holder">
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
-						<h4 class="heading">TOR</h4>
+						<h5 class="heading">TOR</h5>
 						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
 					</div>
 				</div>
@@ -288,7 +288,7 @@
 						<div class="icon-holder">
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
-						<h4 class="heading">Kertas Posisi Komnas HAM untuk Kabupaten/Kota HAM</h4>
+						<h5 class="heading">Kertas Posisi Komnas HAM untuk Kabupaten/Kota HAM</h5>
 						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
 					</div>
 				</div>
@@ -297,7 +297,7 @@
 						<div class="icon-holder">
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
-						<h4 class="heading">Panduan Kabupaten/Kota HAM INFID</h4>
+						<h5 class="heading">Panduan Kabupaten/Kota HAM INFID</h5>
 						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
 					</div>
 				</div>
