@@ -470,7 +470,7 @@ section {
 .service {
 	width: 100%;
 	height: 320px;
-	margin: 80px 0;
+	margin: 10px 0;
 	text-align: center;
 	border: 1px solid #ddd;
 	-webkit-transition: all 0.3s ease;
@@ -1152,6 +1152,37 @@ footer .social-footer li:hover a {
 
 .bg-color-blue{
 	background-color:#c4dfe6;
+}
+
+.img-fh{
+	margin:12px auto;
+	max-width: 600px;
+	width: 100%;
+	height: auto;
+}
+
+.img-fh-sm{
+	margin:12px auto;
+	max-width: 400px;
+	width: 100%;
+	height: auto;
+}
+
+.img-fh-lg{
+	margin:12px auto;
+	max-width: 900px;
+	width: 100%;
+	height: auto;
+}
+
+.line-fh{
+	margin-top:20px;
+	margin-left: auto;
+  	margin-right: auto;
+	display: block;
+    height: 23px;
+    max-width: 40%;
+    border-top: 7px solid #ffc300;
 }
 
 
