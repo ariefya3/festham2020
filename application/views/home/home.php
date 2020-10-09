@@ -164,44 +164,44 @@
 	</div>
 </section>-->
 
-<section id="services" class="section section-padded">
+<section id="services" class="section section-padded bg-color-kegiatan">
 	<div class="container">
 		<div class="row text-center title">
-			<h2>Bentuk Kegiatan</h2>
+			<h2 class="fnt-color-white">Bentuk Kegiatan</h2>
 			<div class="row services">
 				<div class="col-md-3">
 					<div class="service">
-						<div class="icon-holder">
+						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/prafest.png" alt="" class="icon">
 						</div>
-						<h4 class="heading">Kegiatan Pra Festival</h4>
+						<h4 class="heading fnt-color-white">Kegiatan Pra Festival</h4>
 						<button data-toggle="modal" data-target="#modal-fh-prafest" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="service">
-						<div class="icon-holder">
+						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/saat-fest.png" alt="" class="icon">
 						</div>
-						<h4 class="heading">Kegiatan Saat Festival</h4>
+						<h4 class="heading fnt-color-white">Kegiatan Saat Festival</h4>
 						<button data-toggle="modal" data-target="#modal-fh-saatfest" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="service">
-						<div class="icon-holder">
+						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/sesi-khusus.png" alt="" class="icon">
 						</div>
-						<h4 class="heading">Sesi Khusus</h4>
+						<h4 class="heading fnt-color-white">Sesi Khusus</h4>
 						<button data-toggle="modal" data-target="#modal-fh-sesus" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="service">
-						<div class="icon-holder">
+						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/evaluation.png" alt="" class="icon">
 						</div>
-						<h4 class="heading">Kegiatan Pasca Festival</h4>
+						<h4 class="heading fnt-color-white">Kegiatan Pasca Festival</h4>
 						<button data-toggle="modal" data-target="#modal-fh-pasca" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
 				</div>
@@ -272,10 +272,10 @@
 <section id="pricing" class="section">
 	<div class="container">
 		<div class="row title text-center">
-			<h2 class="margin-top white">Dokumen</h2>
+			<h2 class="margin-top">Dokumen</h2>
 			<div class="row services">
 				<div class="col-md-4">
-					<div class="service">
+					<div class="service bg-color-blue">
 						<div class="icon-holder">
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
@@ -284,7 +284,7 @@
 					</div>
 				</div>
 				<div class="col-md-4">
-					<div class="service">
+					<div class="service bg-color-blue">
 						<div class="icon-holder">
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
@@ -293,7 +293,7 @@
 					</div>
 				</div>
 				<div class="col-md-4">
-					<div class="service">
+					<div class="service bg-color-blue">
 						<div class="icon-holder">
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
