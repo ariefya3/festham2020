@@ -121,9 +121,12 @@ header {
 	width: 100%;
 	color: white;
 	background: rgba(28, 36, 65, 0.93);
-	background: url('../img/header.jpg');
+	/*background: url('../img/header.jpg');*/
+	background-color: #003B46;
 	background-size: cover;
 }
+
+
 
 header .table {
 	display: table;
@@ -284,6 +287,10 @@ section {
 .section {
 	padding: 40px 0;
 	background: #fff;
+}
+
+.bg-color-kegiatan{
+	background: #07575B;
 }
 
 .section-padded {
@@ -476,10 +483,11 @@ section {
 	display: inline-block;
 	margin-bottom: 40px;
 	padding: 10px;
-	background: white;
+	/*background: white;*/
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
+
 
 .service .heading {
 	position: relative;
@@ -489,7 +497,7 @@ section {
 }
 
 .service .icon-holder > img.icon {
-	width: 40px;
+	width: 70px;
 }
 
 .service:hover {
@@ -556,7 +564,7 @@ section {
 /* Pricing */
 
 #pricing {
-	background: #00a8ff url('../img/pricing1.jpg') no-repeat center center;
+	background: #66a5ad /*url('../img/pricing1.jpg') no-repeat center center;*/;
 	-webkit-background-size: cover;
 	background-size: cover;
 	-webkit-transition: background-image 0.6s linear 0.3s;
@@ -663,7 +671,8 @@ section {
 
 footer {
 	padding: 140px 0 40px;
-	background: url('../img/footer.jpg');
+	/*background: url('../img/footer.jpg');*/
+	background-color: #003b46;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
@@ -1034,7 +1043,7 @@ footer .social-footer li:hover a {
 }
 
 .gray-bg {
-	background: #f7f7f7;
+	background: #c4dfed;
 }
 
 .blue {
@@ -1046,7 +1055,7 @@ footer .social-footer li:hover a {
 }
 
 .muted {
-	color: #989da0;
+	color: #333333;
 }
 
 .margin-top {
@@ -1135,6 +1144,14 @@ footer .social-footer li:hover a {
 	.pricings .pricing .box-second {
 		padding-top: 0;
 	}
+}
+
+.fnt-color-white{
+	color:white;
+}
+
+.bg-color-blue{
+	background-color:#c4dfe6;
 }
 
 
