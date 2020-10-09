@@ -34,8 +34,10 @@
 			<div class="header-text">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1 class="white typed">Festival Hak Asasi Manusia 2020</h1><span class="typed-cursor">|</span>
-						<h3 class="light white">"Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya"</h3>
+						<h1 class="white typed">Festival Hak Asasi Manusia 2020</h1><br>
+						<h3 style="margin-bottom:10px;" class="light white">"Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya"</h3>
+						<img class="container-fluid img-fh" src="assets/img/people-fh.png" data-active-url="assets/img/people-fh.png" alt="">
+						<!--<span class="typed-cursor">|</span>-->
 					</div>
 				</div>
 			</div>
@@ -168,6 +170,7 @@
 	<div class="container">
 		<div class="row text-center title">
 			<h2 class="fnt-color-white">Bentuk Kegiatan</h2>
+			<div class="line-fh"></div>
 			<div class="row services">
 				<div class="col-md-3">
 					<div class="service">
@@ -205,6 +208,7 @@
 						<button data-toggle="modal" data-target="#modal-fh-pasca" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
 				</div>
+				<img class="container-fluid img-fh-sm" src="assets/img/people-fh2.png" data-active-url="assets/img/people-fh2.png" alt="">	
 			</div>
 			<!--<h4 class="light white">Choose your favorite pricing plan and sign up today!</h4>-->
 		</div>
@@ -215,7 +219,9 @@
 		<div class="row title text-center">
 			<h2 class="margin-top">Jadwal Festival HAM 2020</h2>
 			<h4 class="light muted">Kamis-Sabtu, 17-19 Desember 2020</h4>
-			<a href="#" data-toggle="modal" data-target="#" class="btn btn-blue-fill ripple">Download Jadwal</a>
+			<div class="line-fh"></div>
+			<img class="container-fluid img-fh" src="assets/img/people-fh3.png" data-active-url="assets/img/people-fh3.png" alt=""><br>
+			<a href="#" data-toggle="modal" data-target="#" class="btn btn-blue-fill ripple">Download Jadwal</a>	
 		</div>
 		<div class="row">
 			<div class="col-md-4">
@@ -273,31 +279,41 @@
 	<div class="container">
 		<div class="row title text-center">
 			<h2 class="margin-top">Dokumen</h2>
+			<div class="line-fh"></div>
 			<div class="row services">
-				<div class="col-md-4">
+				<div class="col-md-3">
 					<div class="service bg-color-blue">
 						<div class="icon-holder">
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
-						<h5 class="heading">TOR</h5>
+						<h6 class="heading">TOR</h6>
 						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-3">
 					<div class="service bg-color-blue">
 						<div class="icon-holder">
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
-						<h5 class="heading">Kertas Posisi Komnas HAM untuk Kabupaten/Kota HAM</h5>
+						<h6 class="heading">Kertas Posisi Komnas HAM untuk Kabupaten/Kota HAM</h6>
 						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-3">
 					<div class="service bg-color-blue">
 						<div class="icon-holder">
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
-						<h5 class="heading">Panduan Kabupaten/Kota HAM INFID</h5>
+						<h6 class="heading">Panduan Kabupaten/Kota HAM INFID</h6>
+						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="service bg-color-blue">
+						<div class="icon-holder">
+							<img src="assets/img/icons/documents.png" alt="" class="icon">
+						</div>
+						<h6 class="heading">Leaflet Human Rights Cities</h6>
 						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
 					</div>
 				</div>
@@ -1056,7 +1072,7 @@
 		</div>
 		<div class="row bottom-footer-fh text-center-mobile">
 			<div class="col-sm-8">
-				<p>&copy; 2020 Festival HAM. Hak Cipta Dilindungi Oleh Undang-Undang</p>
+				<h6 class="white">&copy; 2020 Festival HAM Hak Cipta Dilindungi Oleh Undang-Undang</h6>
 			</div>
 			<div class="col-sm-4 text-right text-center-mobile">
 				<ul class="social-footer">
