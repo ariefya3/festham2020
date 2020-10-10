@@ -18,7 +18,7 @@
 			<ul class="nav navbar-nav navbar-right main-nav">
 				<li><a href="#intro">Home</a></li>
 				<li><a href="#about"> Festival HAM</a></li>
-				<li><a href="#services">Kegiatan</a></li>
+				<li><a href="#service">Kegiatan</a></li>
 				<li><a href="#team">Jadwal</a></li>
 				<li><a href="#pricing">Dokumen</a></li>
 				<!--<li><a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue">Sign Up</a></li>-->
@@ -166,25 +166,28 @@
 		</div>
 	</div>
 </section>-->
-<section id="about" class="section section-padded blue-bg">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 text-center">
-				<h2 class="margin-top white">TENTANG FESTIVAL HAM</h2>
-				<div class="line-fh"></div><br><br>
-				<p class="fnt-color-white">Festival HAM merupakan acara tahunan yang diselenggarakan oleh Komnas HAM dan INFID serta beberapa lembaga yang turut mendukung. Festival ini adalah ruang berbagai pengalaman dan belajar bersama mengenai implementasi kabupaten/kota HAM oleh pemerintah daerah sebagai bentuk pemajuan, perlindungan, dan pemenuhan HAM.</p>
-				<p class="fnt-color-white">Festival HAM juga merupakan ruang untuk merayakan praktik-praktik baik melaksanakan pembangunan yang berkeadilan sosial dengan memperhatikan budaya lokal oleh pemerintah kabupaten/kota di Indonesia adalah sebuah keperluan dan penting dilakukan secara kontinyu. Forum ini menyediakaan dan menularkan informasi dan inspirasi.</p>
-				<p class="fnt-color-white">Festival HAM 2020 akan dilaksanakan Secara Online pada tanggal 17-19 Desember 2020 dengan tema "Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya"</p>
-				<video src="https://www.youtube.com/watch?v=6Z1EGiSwEkU" controls width="75%" height="75%" style="border: 7px double #fff"> </video>
 
+<section id="about" class="section tentang-bg">
+	<div class="container">
+		<div class="row title text-center">
+			<h2 class="margin-top white">Tentang Festival HAM</h2>
+			<div class="line-fh"></div>
+			<p class="fnt-color-white">Festival HAM merupakan acara tahunan yang diselenggarakan oleh Komnas HAM dan INFID serta beberapa lembaga yang turut mendukung. Festival ini adalah ruang berbagai pengalaman dan belajar bersama mengenai implementasi kabupaten/kota HAM oleh pemerintah daerah sebagai bentuk pemajuan, perlindungan, dan pemenuhan HAM.</p>
+			<p class="fnt-color-white">Festival HAM juga merupakan ruang untuk merayakan praktik-praktik baik melaksanakan pembangunan yang berkeadilan sosial dengan memperhatikan budaya lokal oleh pemerintah kabupaten/kota di Indonesia adalah sebuah keperluan dan penting dilakukan secara kontinyu. Forum ini menyediakaan dan menularkan informasi dan inspirasi.</p>
+			<p class="fnt-color-white">Festival HAM 2020 akan dilaksanakan Secara Online pada tanggal 17-19 Desember 2020 dengan tema "Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya"</p>
+			<div class="App-vid" style="width: 640px; height: 360px;">
+				<div style="width: 100%; height: 100%;">
+					<iframe frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="100%" height="100%" src="https://www.youtube.com/embed/6Z1EGiSwEkU" autoplay=0&amp; mute=0&amp; controls=0&amp; origin=https%3A%2F%2Ffestivalham.com&amp; playsinline=1&amp; showinfo=0&amp; rel=0&amp; iv_load_policy=3&amp; modestbranding=1&amp; enablejsapi=1&amp; widgetid="1" id="widget2">
+					</iframe>
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<section id="services" class="section section-padded bg-color-kegiatan">
+<section id="service" class="section">
 	<div class="container">
-		<div class="row text-center title">
-			<h2 class="fnt-color-white">Bentuk Kegiatan</h2>
+		<div class="row title text-center">
+			<h2 class="margin-top">Bentuk Kegiatan</h2>
 			<div class="line-fh"></div>
 			<div class="row services">
 				<div class="col-md-3">
@@ -225,8 +228,9 @@
 				</div>
 				<img class="container-fluid img-fh-sm" src="assets/img/people-fh2.png" data-active-url="assets/img/people-fh2.png" alt="">
 			</div>
-			<!--<h4 class="light white">Choose your favorite pricing plan and sign up today!</h4>-->
+
 		</div>
+
 	</div>
 </section>
 <section id="team" class="section gray-bg">
@@ -376,50 +380,22 @@
 		</div>-->
 	</div>
 </section>
-<section class="section section-padded blue-bg">
+<section class="section tentang-bg">
 	<div class="container">
-		<div class="row">
-			<div class="col-md-12 text-center-mobile">
-				<div class="item text-center">
-					<!--i class="icon fa fa-twitter"-->
-					<h2 class="margin-top white">Support By</h2>
-					<div class="line-fh"></div>
-					<!--<figure>-->
-					<div class="col-md-4">
-						<img class="img-fh-partner" src="assets/img/komnas.png">	
-					</div>
-					<div class="col-md-4">
-						<img class="img-fh-partner" src="assets/img/infid.png">
-					</div>
-					<div class="col-md-4">
-						<img class="img-fh-partner" src="assets/img/banjarmasin.png">
-					</div>	
-						<!--<figcaption>-->
-
-							<!--div class="col-sm-4 text-center-mobile">
-						<img style="max-width:150px" src="assets/img/komnas.png" data-active-url="assets/img/komnas.png" alt="">
-					</div>
-					<div class=" col-sm-4 text-center-mobile">
-						<img style="max-width:300px" src="assets/img/infid.png" data-active-url="assets/img/infid.png" alt="">
-					</div>
-					<div class=" col-sm-4 text-center-mobile">
-						<img style="max-width:100px" src="assets/img/banjarmasin.png" data-active-url="assets/img/banjarmasin.png" alt="">
-					</div-->
-
-				</div>
-				<!--div class="item text-center">
-						<i class="icon fa fa-twitter"></i>
-						<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
-						<h4 class="light-white light">#health #training #exercise</h4>
-					</div>
-					<div class="item text-center">
-						<i class="icon fa fa-twitter"></i>
-						<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
-						<h4 class="light-white light">#health #training #exercise</h4>
-					</div-->
+		<div class="row title text-center">
+			<h2 class="margin-top white">Supported By</h2>
+			<div class="line-fh"></div>
+			<!--<figure>-->
+			<div class="col-md-4">
+				<img class="img-fh-partner" src="assets/img/komnas.png">
+			</div>
+			<div class="col-md-4">
+				<img class="img-fh-partner" src="assets/img/infid.png">
+			</div>
+			<div class="col-md-4">
+				<img class="img-fh-partner" src="assets/img/banjarmasin.png">
 			</div>
 		</div>
-	</div>
 	</div>
 </section>
 <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -972,31 +948,29 @@
 	</div>
 </div>
 <!-- Menampilkan form saat festival-->
+
 <div class="modal fade" id="modal-fh-saatfest" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog-fh">
 		<div class="modal-content modal-popup">
 			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
-			<h3 class="white">Kegiatan Saat Festival HAM 2020</h3>
+			<h3 class="white">KEGIATAN SAAT FESTIVAL HAM</h3>
 			<form action="" class="popup-form-fh">
 				<div class="owl-carousel owl-schedule bottom">
 					<div class="item">
-						<div class="schedule-row row text-left">
-						</div>
-					</div>
-					<div class="schedule-row row">
-						<div class="col-xs-12 text-left">
-							<h5 class="regular-fh white p-thin-fh"><b>1. Forum Konferensi (Diskusi dalam bentuk sesi diskusi pleno dan sesi diskusi paralel).</b><br>
-							</h5>
-							<h5 class="regular-fh white p-thin-fh"><b>2. Pameran.</b><br>
-								a. Tempat Wisata<br>
-								b. Kuliner<br>
-								c. Program Kota/Kabupaten HAM<br>
-								d. Produk UKM
-							</h5>
-							<h5 class="regular-fh white p-thin-fh"><b>3. Pentas Seni.</b><br>
-							</h5>
-							<h5 class="regular-fh white p-thin-fh"><b>4. Deklarasi.</b><br>
-							</h5>
+						<div class="schedule text-left">
+							<div class="col-xs-12">
+								<h5 class="regular-fh white p-thin-fh"><b>1. Forum Konferensi (Diskusi dalam bentuk sesi diskusi pleno dan sesi diskusi paralel).</b></h5>
+								<h5 class="regular-fh white p-thin-fh"><b>2. Pameran.</b><br>
+									a. Tempat Wisata<br>
+									b. Kuliner<br>
+									c. Program Kota/Kabupaten HAM<br>
+									d. Produk UKM
+								</h5>
+								<h5 class="regular-fh white p-thin-fh"><b>3. Pentas Seni.</b><br>
+								</h5>
+								<h5 class="regular-fh white p-thin-fh"><b>4. Deklarasi.</b><br>
+								</h5>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -1004,22 +978,20 @@
 		</div>
 	</div>
 </div>
-<!-- Menampilkan form Saat festival-->
+<!-- Menampilkan form Pra festival-->
+
 <div class="modal fade" id="modal-fh-prafest" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog-fh">
 		<div class="modal-content modal-popup">
 			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
-			<h3 class="white">Kegiatan Pra Festival HAM 2020</h3>
+			<h3 class="white">KEGIATAN PRA FESTIVAL HAM</h3>
 			<form action="" class="popup-form-fh">
 				<div class="owl-carousel owl-schedule bottom">
 					<div class="item">
-						<div class="schedule-row row text-left">
-						</div>
-					</div>
-					<div class="schedule-row row">
-						<div class="col-xs-12 text-left">
-							<h5 class="regular-fh white p-thin-fh"><b>Penandatanganan MoU, Penandatanganan Perjanjian Kerja Sama (PKS), Konferensi Pers, Diskusi, Seminar, Talkshow, Media Gathering, Media Visit, Penyuluhan HAM, World Human Rights Cities Forum (WHRCF).</b><br>
-							</h5>
+						<div class="schedule text-left">
+							<div class="col-xs-12">
+								<h5 class="regular-fh white p-thin-fh"><b>Penandatanganan MoU, Penandatanganan Perjanjian Kerja Sama (PKS), Konferensi Pers, Diskusi, Seminar, Talkshow, Media Gathering, Media Visit, Penyuluhan HAM, World Human Rights Cities Forum (WHRCF).</b></h5>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -1032,19 +1004,17 @@
 	<div class="modal-dialog-fh">
 		<div class="modal-content modal-popup">
 			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
-			<h3 class="white">Sesi Khusus Festival HAM 2020</h3>
+			<h3 class="white">KESI KHUSUS</h3>
 			<form action="" class="popup-form-fh">
 				<div class="owl-carousel owl-schedule bottom">
 					<div class="item">
-						<div class="schedule-row row text-left">
-						</div>
-					</div>
-					<div class="schedule-row row">
-						<div class="col-xs-12 text-left">
-							<h5 class="regular-fh white p-thin-fh"><b>1. Panggung Budaya Seni dan Tari Rakyat (Pemerintah Kota Banjarmasin).</b><br>
-							</h5>
-							<h5 class="regular-fh white p-thin-fh"><b>2. Diskusi atau Bedah RUU Penghapusan Kekerasan Seksual (PKS) (INFID).</b><br>
-							</h5>
+						<div class="schedule text-left">
+							<div class="col-xs-12">
+								<h5 class="regular-fh white p-thin-fh"><b>1. Panggung Budaya Seni dan Tari Rakyat (Pemerintah Kota Banjarmasin).</b>
+								</h5>
+								<h5 class="regular-fh white p-thin-fh"><b>2. Diskusi atau Bedah RUU Penghapusan Kekerasan Seksual (PKS) (INFID).</b>
+								</h5>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -1052,12 +1022,14 @@
 		</div>
 	</div>
 </div>
-<!-- Menampilkan form Sesi Khusus-->
+
+
+<!-- Menampilkan form pasca Khusus-->
 <div class="modal fade" id="modal-fh-pasca" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog-fh">
 		<div class="modal-content modal-popup">
 			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
-			<h3 class="white">Pasca Festival HAM 2020</h3>
+			<h3 class="white">PASCA Festival HAM 2020</h3>
 			<form action="" class="popup-form-fh">
 				<div class="owl-carousel owl-schedule bottom">
 					<div class="item">
