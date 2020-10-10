@@ -17,10 +17,10 @@
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right main-nav">
 				<li><a href="#intro">Home</a></li>
+				<li><a href="#about"> Festival HAM</a></li>
 				<li><a href="#services">Kegiatan</a></li>
 				<li><a href="#team">Jadwal</a></li>
 				<li><a href="#pricing">Dokumen</a></li>
-				<li><a href="#about">Tentang HAM</a></li>
 				<!--<li><a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue">Sign Up</a></li>-->
 			</ul>
 		</div>
@@ -37,6 +37,7 @@
 						<h1 class="white typed">Festival Hak Asasi Manusia 2020</h1><br>
 						<h3 style="margin-bottom:10px;" class="light white">"Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya"</h3>
 						<img class="container-fluid img-fh" src="assets/img/people-fh.png" data-active-url="assets/img/people-fh.png" alt="">
+
 						<!--<span class="typed-cursor">|</span>-->
 					</div>
 				</div>
@@ -165,7 +166,21 @@
 		</div>
 	</div>
 </section>-->
+<section id="about" class="section section-padded blue-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 text-center">
+				<h3 class="white light"><b>TENTANG FESTIVAL HAM</b></h3>
+				<div class="line-fh"></div>
+				<p class="fnt-color-white">Festival HAM merupakan acara tahunan yang diselenggarakan oleh Komnas HAM dan INFID serta beberapa lembaga yang turut mendukung. Festival ini adalah ruang berbagai pengalaman dan belajar bersama mengenai implementasi kabupaten/kota HAM oleh pemerintah daerah sebagai bentuk pemajuan, perlindungan, dan pemenuhan HAM.</p>
+				<p class="fnt-color-white">Festival HAM juga merupakan ruang untuk merayakan praktik-praktik baik melaksanakan pembangunan yang berkeadilan sosial dengan memperhatikan budaya lokal oleh pemerintah kabupaten/kota di Indonesia adalah sebuah keperluan dan penting dilakukan secara kontinyu. Forum ini menyediakaan dan menularkan informasi dan inspirasi.</p>
+				<p class="fnt-color-white">Festival HAM 2020 akan dilaksanakan Secara Online pada tanggal 17-19 Desember 2020 dengan tema "Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya"</p>
+				<video src="https://www.youtube.com/watch?v=6Z1EGiSwEkU" controls width="75%" height="75%" style="border: 7px double #fff"> </video>
 
+			</div>
+		</div>
+	</div>
+</section>
 <section id="services" class="section section-padded bg-color-kegiatan">
 	<div class="container">
 		<div class="row text-center title">
@@ -208,7 +223,7 @@
 						<button data-toggle="modal" data-target="#modal-fh-pasca" class="btn btn-blue-fill description">LIHAT</button>
 					</div>
 				</div>
-				<img class="container-fluid img-fh-sm" src="assets/img/people-fh2.png" data-active-url="assets/img/people-fh2.png" alt="">	
+				<img class="container-fluid img-fh-sm" src="assets/img/people-fh2.png" data-active-url="assets/img/people-fh2.png" alt="">
 			</div>
 			<!--<h4 class="light white">Choose your favorite pricing plan and sign up today!</h4>-->
 		</div>
@@ -221,7 +236,7 @@
 			<h4 class="light muted">Kamis-Sabtu, 17-19 Desember 2020</h4>
 			<div class="line-fh"></div>
 			<img class="container-fluid img-fh" src="assets/img/people-fh3.png" data-active-url="assets/img/people-fh3.png" alt=""><br>
-			<a href="#" data-toggle="modal" data-target="#" class="btn btn-blue-fill ripple">Download Jadwal</a>	
+			<a href="#" data-toggle="modal" data-target="#" class="btn btn-blue-fill ripple">Download Jadwal</a>
 		</div>
 		<div class="row">
 			<div class="col-md-4">
@@ -361,18 +376,32 @@
 		</div>-->
 	</div>
 </section>
-<section id="about" class="section section-padded blue-bg">
+<section class="section section-padded blue-bg">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8 col-md-offset-2">
-				<div class="owl-twitter owl-carousel">
-					<div class="item text-center">
-						<!--i class="icon fa fa-twitter"-->
-						<h3 class="white light"><b>TENTANG FESTIVAL HAM</b></h3>
-						<h4 class="white light">Festival HAM 2020 merupakan forum bersama untuk merayakan praktik-praktik baik dalam melaksanakan pembangunan yang berbasis HAM dengan memperhatikan kearifan lokal. Forum ini dapat menyediakan dan menularkan informasi dan inspirasi serta menjadi wadah pertukaran pengalaman dan pertukaran praktik-praktik inovatif lainnya di bidang HAM.</h4>
-						<!--h4 class="light-white light">#Komnas HAM #FestivalHAM2020</h4-->
+			<div class="col-md-12 text-center-mobile">
+				<div class="item text-center">
+					<!--i class="icon fa fa-twitter"-->
+					<h3 class="white light"><b>Support By</b></h3>
+					<div class="line-fh"></div>
+					<figure>
+						<img src="assets/img/komnas.png" width="15%" height="15%">
+						<img src="assets/img/infid.png" width="25%" height="25%">
+						<img src="assets/img/banjarmasin.png" width="15%" height="15%">
+						<figcaption>
+
+							<!--div class="col-sm-4 text-center-mobile">
+						<img style="max-width:150px" src="assets/img/komnas.png" data-active-url="assets/img/komnas.png" alt="">
 					</div>
-					<!--div class="item text-center">
+					<div class=" col-sm-4 text-center-mobile">
+						<img style="max-width:300px" src="assets/img/infid.png" data-active-url="assets/img/infid.png" alt="">
+					</div>
+					<div class=" col-sm-4 text-center-mobile">
+						<img style="max-width:100px" src="assets/img/banjarmasin.png" data-active-url="assets/img/banjarmasin.png" alt="">
+					</div-->
+
+				</div>
+				<!--div class="item text-center">
 						<i class="icon fa fa-twitter"></i>
 						<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
 						<h4 class="light-white light">#health #training #exercise</h4>
@@ -382,9 +411,9 @@
 						<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
 						<h4 class="light-white light">#health #training #exercise</h4>
 					</div-->
-				</div>
 			</div>
 		</div>
+	</div>
 	</div>
 </section>
 <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
