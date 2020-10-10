@@ -1187,3 +1187,9 @@ footer .social-footer li:hover a {
 	max-width: 40%;
 	border-top: 7px solid #ffc300;
 }
+
+.img-fh-partner{
+	max-height : 150px;
+	margin:10px auto;
+	display: block;
+}

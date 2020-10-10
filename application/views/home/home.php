@@ -170,8 +170,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 text-center">
-				<h3 class="white light"><b>TENTANG FESTIVAL HAM</b></h3>
-				<div class="line-fh"></div>
+				<h2 class="margin-top white">TENTANG FESTIVAL HAM</h2>
+				<div class="line-fh"></div><br><br>
 				<p class="fnt-color-white">Festival HAM merupakan acara tahunan yang diselenggarakan oleh Komnas HAM dan INFID serta beberapa lembaga yang turut mendukung. Festival ini adalah ruang berbagai pengalaman dan belajar bersama mengenai implementasi kabupaten/kota HAM oleh pemerintah daerah sebagai bentuk pemajuan, perlindungan, dan pemenuhan HAM.</p>
 				<p class="fnt-color-white">Festival HAM juga merupakan ruang untuk merayakan praktik-praktik baik melaksanakan pembangunan yang berkeadilan sosial dengan memperhatikan budaya lokal oleh pemerintah kabupaten/kota di Indonesia adalah sebuah keperluan dan penting dilakukan secara kontinyu. Forum ini menyediakaan dan menularkan informasi dan inspirasi.</p>
 				<p class="fnt-color-white">Festival HAM 2020 akan dilaksanakan Secara Online pada tanggal 17-19 Desember 2020 dengan tema "Menegakkan HAM di Masa Pandemi Covid-19: Tantangan dan Solusinya"</p>
@@ -236,7 +236,7 @@
 			<h4 class="light muted">Kamis-Sabtu, 17-19 Desember 2020</h4>
 			<div class="line-fh"></div>
 			<img class="container-fluid img-fh" src="assets/img/people-fh3.png" data-active-url="assets/img/people-fh3.png" alt=""><br>
-			<a href="#" data-toggle="modal" data-target="#" class="btn btn-blue-fill ripple">Download Jadwal</a>
+			<a href="assets/download/TORBESARFESTIVALHAM2020.doc" download="TOR Festival HAM 2020"><button data-toggle="modal" data-target="#" class="btn btn-blue-fill description">Download Jadwal</button></a>
 		</div>
 		<div class="row">
 			<div class="col-md-4">
@@ -302,7 +302,7 @@
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
 						<h6 class="heading">TOR</h6>
-						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
+						<a href="assets/download/TORBESARFESTIVALHAM2020.doc" download="TOR Festival HAM 2020"><button data-toggle="modal" data-target="#" class="btn btn-blue-fill description">Download</button></a>
 					</div>
 				</div>
 				<div class="col-md-3">
@@ -311,7 +311,7 @@
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
 						<h6 class="heading">Kertas Posisi Komnas HAM untuk Kabupaten/Kota HAM</h6>
-						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
+						<a href="assets/download/TORBESARFESTIVALHAM2020.doc" download="TOR Festival HAM 2020"><button data-toggle="modal" data-target="#" class="btn btn-blue-fill description">Download</button></a>
 					</div>
 				</div>
 				<div class="col-md-3">
@@ -320,7 +320,7 @@
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
 						<h6 class="heading">Panduan Kabupaten/Kota HAM INFID</h6>
-						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
+						<a href="assets/download/TORBESARFESTIVALHAM2020.doc" download="TOR Festival HAM 2020"><button data-toggle="modal" data-target="#" class="btn btn-blue-fill description">Download</button></a>
 					</div>
 				</div>
 				<div class="col-md-3">
@@ -329,7 +329,7 @@
 							<img src="assets/img/icons/documents.png" alt="" class="icon">
 						</div>
 						<h6 class="heading">Leaflet Human Rights Cities</h6>
-						<button data-toggle="modal" data-target="#modal-fh-jdw1" class="btn btn-blue-fill description">Download</button>
+						<a href="assets/download/TORBESARFESTIVALHAM2020.doc" download="TOR Festival HAM 2020"><button data-toggle="modal" data-target="#" class="btn btn-blue-fill description">Download</button></a>
 					</div>
 				</div>
 			</div>
@@ -382,13 +382,19 @@
 			<div class="col-md-12 text-center-mobile">
 				<div class="item text-center">
 					<!--i class="icon fa fa-twitter"-->
-					<h3 class="white light"><b>Support By</b></h3>
+					<h2 class="margin-top white">Support By</h2>
 					<div class="line-fh"></div>
-					<figure>
-						<img src="assets/img/komnas.png" width="15%" height="15%">
-						<img src="assets/img/infid.png" width="25%" height="25%">
-						<img src="assets/img/banjarmasin.png" width="15%" height="15%">
-						<figcaption>
+					<!--<figure>-->
+					<div class="col-md-4">
+						<img class="img-fh-partner" src="assets/img/komnas.png">	
+					</div>
+					<div class="col-md-4">
+						<img class="img-fh-partner" src="assets/img/infid.png">
+					</div>
+					<div class="col-md-4">
+						<img class="img-fh-partner" src="assets/img/banjarmasin.png">
+					</div>	
+						<!--<figcaption>-->
 
 							<!--div class="col-sm-4 text-center-mobile">
 						<img style="max-width:150px" src="assets/img/komnas.png" data-active-url="assets/img/komnas.png" alt="">
