@@ -191,7 +191,7 @@
 			<div class="line-fh"></div>
 			<div class="row services">
 				<div class="col-md-3">
-					<div class="service">
+					<div class="service bg-color-kegiatan">
 						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/prafest.png" alt="" class="icon">
 						</div>
@@ -200,7 +200,7 @@
 					</div>
 				</div>
 				<div class="col-md-3">
-					<div class="service">
+					<div class="service bg-color-kegiatan">
 						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/saat-fest.png" alt="" class="icon">
 						</div>
@@ -209,7 +209,7 @@
 					</div>
 				</div>
 				<div class="col-md-3">
-					<div class="service">
+					<div class="service bg-color-kegiatan">
 						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/sesi-khusus.png" alt="" class="icon">
 						</div>
@@ -218,7 +218,7 @@
 					</div>
 				</div>
 				<div class="col-md-3">
-					<div class="service">
+					<div class="service bg-color-kegiatan">
 						<div class="icon-holder icon-trp">
 							<img src="assets/img/icons/evaluation.png" alt="" class="icon">
 						</div>
@@ -431,7 +431,7 @@
 <!-- Menampilkan popup jadwal hari 1 -->
 <div class="modal fade" id="modal-fh-jdw1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog-fh">
-		<div class="modal-content modal-popup">
+		<div class="modal-content modal-popup bg-blue-jdw">
 			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
 			<h3 class="white">Kamis, 17 Desember 2020</h3>
 			<form action="" class="popup-form-fh">
@@ -635,7 +635,7 @@
 <!-- Menampilkan popup jadwal hari 2 -->
 <div class="modal fade" id="modal-fh-jdw2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog-fh">
-		<div class="modal-content modal-popup">
+		<div class="modal-content modal-popup bg-blue-jdw">
 			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
 			<h3 class="white">Jumat, 18 Desember 2020</h3>
 			<form action="" class="popup-form-fh">
@@ -828,7 +828,7 @@
 <!-- Meampilkan popup jadwal hari 3 -->
 <div class="modal fade" id="modal-fh-jdw3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog-fh">
-		<div class="modal-content modal-popup">
+		<div class="modal-content modal-popup bg-blue-jdw">
 			<!--<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>-->
 			<h3 class="white">Sabtu, 19 Desember 2020</h3>
 			<form action="" class="popup-form-fh">
