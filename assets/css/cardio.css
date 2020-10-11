@@ -1269,6 +1269,11 @@ footer .social-footer li:hover a {
 	background-color: #c4dfe6;
 }
 
+.bg-blue-jdw {
+	background: url("../img/popup1.png");;
+}
+
+
 .img-fh {
 	margin: 12px auto;
 	max-width: 600px;
